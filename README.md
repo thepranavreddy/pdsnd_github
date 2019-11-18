@@ -5,7 +5,7 @@ The date this project file was created was on 21st October, 2019.
 Exploring US Bikeshare Data using the user inputs.
 
 ### Description
-Describe what your project is about and what it does
+My project is about providing the customer statistics for the US Bikesharing data by taking certain inputs from the User.
 
 ### Files used
 Include the files used
