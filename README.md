@@ -2,7 +2,7 @@
 The date this project file was created was on 21st October, 2019.
 
 ### Project Title
-Replace the Project Title
+Exploring US Bikeshare Data using the user inputs.
 
 ### Description
 Describe what your project is about and what it does
