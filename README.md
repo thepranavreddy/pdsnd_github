@@ -1,3 +1,6 @@
+### Overview
+This project deals with the US Bikesharing data with an user interactive interface. I created this project as a part of my second project submission for the Udacity Data Science Nano Degree program. I have imported the data from CSV files of all the three cities and created an user interactive interface where user provides certain filters for the data to be displayed.
+
 ### Date created
 The date this project file was created was on 21st October, 2019.
 
