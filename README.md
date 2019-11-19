@@ -11,5 +11,5 @@ My project is about providing the customer statistics for the US Bikesharing dat
 We have used the CSV data files of all the three cities to work on this project
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Although I have referred to https://github.com/khaledimad/Explore-US-Bikeshare-Data/blob/master/bikeshare_2.py while completing this project, most of my work is authentic
 
